@@ -12,27 +12,27 @@
       "conteudo": "Vc faz TI? Conserta meu celular!",
       "autoria": "Grupo da família",
       "modelo": "modelo1",
-      "favorito": true
+      "favorito": false
     },
     {
       "conteudo": "Já tentou reiniciar o roteador?",
       "autoria": "Pessoa da operadora",
       "modelo": "modelo3",
-      "favorito": true,
+      "favorito": false,
       "id": 5
     },
     {
       "conteudo": "Da vida reclama, mas sem ela não vive!",
       "autoria": "Mestre Yoda",
       "modelo": "modelo1",
-      "favorito": true,
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "Na minha máquina funciona!",
       "autoria": "Dev",
       "modelo": "modelo3",
-      "favorito": true,
+      "favorito": false,
       "id": 7
     },
     {
@@ -40,14 +40,14 @@
       "conteudo": "Esse é de laranja que parece de limão, mas tem gosto de tamarindo!",
       "autoria": "Chaves",
       "modelo": "modelo1",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": 13,
       "conteudo": "Melhor professor, o fracasso é!",
       "autoria": "Mestre Yoda",
       "modelo": "modelo2",
-      "favorito": true
+      "favorito": false
     },
     {
       "conteudo": "Você não é todo mundo!",
@@ -68,14 +68,14 @@
       "conteudo": "Em casa a gente conversa!",
       "autoria": "Mãe",
       "modelo": "modelo3",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": 17,
       "conteudo": "Que a força esteja com você!",
       "autoria": "Mestre Yoda",
       "modelo": "modelo1",
-      "favorito": true
+      "favorito": false
     },
     {
       "conteudo": "Mussum Ipsum, cacilds vidis litro abertis. Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Diuretics paradis num copo é motivis de denguis. Atirei o pau no gatis, per gatis num morreus. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis. Sapien in monti palavris qui num significa nadis i pareci latim.",
@@ -160,6 +160,34 @@
       "modelo": "modelo2",
       "favorito": false,
       "id": 29
+    },
+    {
+      "conteudo": "Na volta a gente compra!",
+      "autoria": "Mãe",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 30
+    },
+    {
+      "conteudo": "Se eu for ai e encontrar, esfrego na sua cara!",
+      "autoria": "Mãe",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 31
+    },
+    {
+      "conteudo": "Sou o homem mais feliz e realizado junto dá mulher mais fantástica e inspiradora. Uma dávida de Deus! Rísia Kristinne. ",
+      "autoria": "Carlos Antônio",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 32
+    },
+    {
+      "conteudo": "Engula o choro.",
+      "autoria": "Mãe",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 33
     }
   ]
 }
